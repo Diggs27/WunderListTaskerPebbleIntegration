@@ -1,7 +1,8 @@
 
 #Wunderlist Tasker Pebble Integration Tutorial
-Description: This tutorial will walk through the setup of integrating Wunderlist with the Pebble watch. The goal is to have a watch face which displays the total count of Wunderlist tasks which are Overdue, Due Today, and Due Tomorrow.The fields will be updated automaticlly whenever a task is added or completed.
-Tools: Tasker, AutoWeb, Wunderlist, Glance For Pebble, AutoRemote
+**Description:** This tutorial will walk through the setup of integrating Wunderlist with the Pebble watch. The goal is to have a watch face which displays the total count of Wunderlist tasks which are Overdue, Due Today, and Due Tomorrow.The fields will be updated automaticlly whenever a task is added or completed.
+
+**Tools:** Tasker, AutoWeb, Wunderlist, Glance For Pebble, AutoRemote
 
 ---
 
